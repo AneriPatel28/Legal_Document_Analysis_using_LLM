@@ -14,8 +14,8 @@ The system is designed to address the challenges of legal research, such as sift
 ---
 
 ## Team Members
+- **Aneri Patel**
 - **Saikrishna Paila**  
-- **Aneri Patel**  
 - **Srivallabh Siddharth N**
 
 ---
