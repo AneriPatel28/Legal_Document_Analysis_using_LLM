@@ -128,9 +128,8 @@ nltk.download('words')
 ## File Structure
 - **`0840-01_arguments_only.json`**: Sample dataset containing legal arguments and metadata for testing.
 - **`learning_examples.json`**: Few-shot learning examples for guiding the fine-tuned model.
-- **`RAG.py`**: Implements the retrieval-augmented generation pipeline for query handling and summarization.
-- **`RAG+FSL+Fine_tune.py`**: Fine-tunes the GPT-4 model and integrates FSL with the RAG pipeline.
-- **`app.py`**: Streamlit-based user interface for querying and bulk case analysis.
+- **`final_test_file.py`**: Implements the retrieval-augmented generation pipeline for query handling and summarization and Fine-tunes the GPT-4 model and integrates FSL with the RAG pipeline.
+- **`app12.py`**: Streamlit-based user interface for querying and bulk case analysis.
 
 ---
 
